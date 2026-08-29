@@ -6,5 +6,4 @@ class Solution:
             
             if find in hash:
                 return i, hash[find]
-            else:
-                hash[num] = i
+            hash[num] = i
