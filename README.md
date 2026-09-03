@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Borbezzz/Leetcode-submissions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Borbezzz/Leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Borbez2/Leetcode-submissions/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Borbezzz/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Borbezzz/Leetcode-submissions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
